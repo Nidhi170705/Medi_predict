@@ -12,3 +12,4 @@ scikit-learn
 PyMuPDF
 transformers
 torch
+sacremoses
