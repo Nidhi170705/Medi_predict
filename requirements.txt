@@ -1,0 +1,30 @@
+# --- Core Streamlit App Framework ---
+streamlit
+
+# --- Data Processing ---
+pandas
+numpy
+openpyxl
+PyPDF2
+python-docx
+re
+datetime
+
+# --- Visualization ---
+plotly
+matplotlib
+wordcloud
+
+# --- Forecasting and Time Series ---
+prophet
+statsmodels
+
+# --- PDF Handling ---
+PyMuPDF  # Also known as 'fitz'
+
+# --- Machine Learning & NLP (Used in Generic Finder) ---
+transformers
+torch
+
+# --- Other Utilities ---
+scikit-learn
